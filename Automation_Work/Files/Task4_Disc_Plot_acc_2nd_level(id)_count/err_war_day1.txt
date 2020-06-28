@@ -1,0 +1,33 @@
+errors
+ERROR: [AA.A0.BB[0].testFailCheck1] :Message_1
+ERROR: [AA.A0.BB[1].testFailCheck1] :Message_1
+ERROR: [AA.A0.BB[2].testFailCheck1] :Message_2
+ERROR: [AA.A0.BB[3].testFailCheck1] :Message_2
+ERROR: [AA.A0.BB[4].testFailCheck1] :Message_2
+ERROR: [AA.A0.BB[0].testFailCheck2] :Message_3
+ERROR: [AA.A0.BB[1].testFailCheck2] :Message_3
+ERROR: [AA.A0.BB[2].testFailCheck2] :Message_4
+ERROR: [AA.A0.BB[3].testFailCheck2] :Message_4
+ERROR: [AA.A0.BB[0].testFailCheck3] :Message_5
+ERROR: [AA.A0.BB[1].testFailCheck3] :Message_5
+ERROR: [AA.A0.BB[2].testFailCheck3] :Message_5
+ERROR: [AA.A0.BB[3].testFailCheck3] :Message_6
+ERROR: [AA.A0.BB[4].testFailCheck3] :Message_6
+ERROR: [AA.A0.BB[5].testFailCheck3] :Message_6
+ERROR: [AA.A0.BB[6].testFailCheck3] :Message_6
+warnings
+WARNING: Aa.cc.abcd.randomization_failed: Message_7
+WARNING: Aa.cc.abcd.randomization_failed: Message_7
+WARNING: Aa.cc.abcd.randomization_failed: Message_8
+WARNING: Aa.cc.abcd.UserWarning: Message_9
+WARNING: Aa.cc.abcd.UserWarning: Message_9
+WARNING: Aa.cc.abcd.UserWarning: Message_9
+WARNING: Aa.cc.abcd.UserWarning: Message_10
+WARNING: Aa.cc.abcd.UserWarning: Message_10
+WARNING: Aa.cc.abcd.SyntaxWarning: Message_11
+WARNING: Aa.cc.abcd.SyntaxWarning: Message_11
+WARNING: Aa.cc.abcd.SyntaxWarning: Message_12
+WARNING: Aa.cc.abcd.SyntaxWarning: Message_12
+WARNING: Aa.cc.abcd.SyntaxWarning: Message_12
+WARNING: Aa.cc.abcd.SyntaxWarning: Message_13
+WARNING: Aa.cc.abcd.SyntaxWarning: Message_13

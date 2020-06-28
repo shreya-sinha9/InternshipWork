@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>
+Python button script
+</title>
+</head>
+<body>
+{% if raw_url or edit_url %}
+<!--
+<span>
+    <img src={{edit_url}} height=500 width=500 align="right">
+</span>
+-->
+{% endif %}
+<br><br>
+<form action="/external/" method="post" enctype="multipart/form-data">
+{% csrf_token %}
+    <label for="tog">Choose a Graph Type:</label>
+
+<select name="tog" id="tog">
+  <option value="Line">LINE</option>
+  <option value="Bar">BAR</option>
+    <option value="Dot">DOT</option>
+
+</select>
+    <br><br>
+
+    {% csrf_token %}
+Input days:
+    <input type="text" name="days" required><br><br>
+
+<br><br>
+
+
+<br><br>
+
+<input type="submit" value="SUBMIT">
+</form>
+</body>
+</html>

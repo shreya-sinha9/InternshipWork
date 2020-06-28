@@ -1,0 +1,10 @@
+NameError: name 'shreya' is not defined.
+occurred 1 times
+ZeroDivisionError: division by zero.
+occurred 1 times
+IndexError: list assignment index out of range
+occurred 1 times
+TypeError: can only concatenate str (not "int") to str
+occurred 1 times
+TypeError: '<' not supported between instances of 'int' and 'str'
+occurred 1 times

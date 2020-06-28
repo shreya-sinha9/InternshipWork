@@ -1,0 +1,12 @@
+Input file = readme.txt.
+Searched string:happy
+Replaced string:sad
+ LINE 1:  happy has occurred 2 times and is replaced by sad 2 times.
+
+ LINE 2:  happy has occurred 2 times and is replaced by sad 2 times.
+
+ LINE 3:  happy has occurred 3 times and is replaced by sad 3 times.
+
+ LINE 4:  happy has occurred 2 times and is replaced by sad 2 times.
+
+ LINE 5:  happy has occurred 2 times and is replaced by sad 2 times.
